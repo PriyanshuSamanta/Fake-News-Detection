@@ -65,4 +65,3 @@ You can also add these to the top of your README for a modern look:
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
