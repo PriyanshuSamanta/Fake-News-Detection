@@ -37,16 +37,16 @@ NLTK (NLP)
 Pandas & NumPy (Data Handling)
 
 🚀 Usage
-
+```
 Clone the repository:
 
 git clone https://github.com/username/FakeNewsDetection.git
-
-
+```
+```
 Install dependencies:
 
 pip install -r requirements.txt
-
+```
 
 Run the notebook or script to train the model and make predictions.
 
