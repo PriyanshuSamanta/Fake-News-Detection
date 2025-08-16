@@ -6,10 +6,15 @@ Fake News Detection is a Machine Learning & Deep Learning project that classifie
 ## ⚡ Features
 
 🔹 Text preprocessing: tokenization, stemming, stop-word removal
+
 🔹 Word representation: TF-IDF and One-Hot Encoding
+
 🔹 Deep Learning: Bidirectional LSTM with embedding layers
+
 🔹 Machine Learning alternatives: Naive Bayes, Logistic Regression, etc.
+
 🔹 Real-time predictions: input a news headline and content → get Fake or Real
+
 🔹 Model evaluation: Accuracy, Precision, Recall, F1-Score, Confusion Matrix
 
 
